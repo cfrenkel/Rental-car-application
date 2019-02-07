@@ -12,7 +12,7 @@ management rental car, client and server application.
 * search branch in the nearest location
 * payment when finish ti use.
 		
-# ScreenShots
+## ScreenShots
 	![sign in](screenshot/loginscreen_server.png)
 	![log in](screenshot/flow_s_2.png)
 	![management 1](screenshot/managescreen_server.png)
