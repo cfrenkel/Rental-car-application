@@ -1,0 +1,235 @@
+<resources>
+    <string name="app_name">rental car 02</string>
+    <string name="messSer">An order was closed in the last 10 seconds</string>
+    <string name="log_in">Log in</string>
+    <string name="user_name">  enter a user name</string>
+    <string name="paassword">  enter a password</string>
+    <string name="paassword_again">  enter your password again</string>
+    <string name="sumbit">enter</string>
+    <string name="forgot_paswword">forgot your password?</string>
+    <string name="create_a_user"><u>create a user</u></string>
+    <string name="account"> Do not have an account?</string>
+    <string name="system_managment">System managment</string>
+    <string name="car_list">cars</string>
+    <string name="model_list">models</string>
+    <string name="branch_list">branches</string>
+    <string name="users_add">add new user</string>
+    <string name="car_add">add new car</string>
+    <string name="model_add">add new model</string>
+    <string name="branch_add">add new branch</string>
+    <string name="users_list">users</string>
+    <string name="deatailes">Enter your details</string>
+    <string name="deatailes1">Enter car details</string>
+    <string name="deatailes2">Enter branch details</string>
+    <string name="branchAddress">Enter branch address</string>
+    <string name="parkingBrunch">Enter parking Spaces Number</string>
+    <string name="carNumD">Enter car number with 7/8 digits</string>
+    <string name="modelNameD">Enter cars model name</string>
+    <string name="kiloD">Enter kilometers of driving</string>
+    <string name="BranchPark">Enter num of branch the car parking in</string>
+    <string name="ans">Enter your answer</string>
+    <string name="add">add  </string>
+    <string name="title_spiner">choose your Identification Questions: </string>
+    <string name="the_user_name_or_password_are_incorrect">the user name or password are incorrect</string>
+    <string name="the_user_name_is_incorrect">the user name is incorrect</string>
+    <string name="Oopss_did_not_enter_the_username">Oopss, did not enter the username</string>
+    <string name="Oopss_the_user_name_is_incorrect">Oopss, the user name is incorrect</string>
+    <string name="Identification....">Identification....</string>
+    <string name="your_favorite_food">your favorite food</string>
+    <string name="your_mothers_mother">your mothers mother</string>
+    <string name="cencel">cencel</string>
+    <string name="OK">OK</string>
+    <string name="your_password">your password: </string>
+    <string name="your_ask_is_incorrect">your ask is incorrect</string>
+    <string name="choose_your_Identification_Questions_">choose your Identification Questions: </string>
+    <string name="the_return_password_not_match...">the return password not match...</string>
+    <string name="user_name_already_exist">user name already exist</string>
+    <string name="Pay_attention">Pay attention</string>
+    <string name="Password_must_contain">Password must contain:
+                                           between 6-8 characters
+                                           and at least one capital
+                                           letter and one small letter</string>
+    <string name="Password_must_least_one_capital_letter">Password must  least one capital letter</string>
+    <string name="Password_must_least_one_small_letter">Password must  least one small letter</string>
+    <string name="Password_must_contain_between">Password must contain between 6-8 characters</string>
+    <string name="the_return_password_is_incorrect">the return password is incorrect</string>
+    <string name="welcome">welcome</string>
+    <string name="user_successfully_added">user successfully added</string>
+    <string name="car_successfully_added">car successfully added
+                                             what do you want to do now?</string>
+    <string name="branch_successfully_added">branch successfully added
+                                             what do you want to do now?</string>
+    <string name="add_more">add more</string>
+    <string name="home">home</string>
+    <string name="model_successfully_added">model successfully added
+                                            what do you want to do now?</string>
+    <string name="client_successfully_added">client successfully added
+                                             what do you want to do now?</string>
+    <string name="add_op">add op</string>
+    <string name="list_op">list op</string>
+    <string name="car_num_must">car num must be 7 or 8 digits</string>
+    <string name="kilo">incorrect kilometers</string>
+    <string name="inputIn">the inputs are incorrect</string>
+    <string name="car_exis">the car already exist</string>
+    <string name="branch_exis">the branch already exist</string>
+    <string name="client_exis">the client already exist</string>
+    <string name="model_exis">the model already exist</string>
+    <string name="deatails3">enter model details</string>
+    <string name="deatails4">enter client details</string>
+    <string name="codeModel">enter model code</string>
+    <string name="companyModel">enter company name</string>
+    <string name="modelName">enter model name</string>
+    <string name="engineCapacity">enter engine capacity</string>
+    <string name="seatingPlace">enter seating place</string>
+    <string name="productionYear">enter production year</string>
+    <string name="firstName">enter first name</string>
+    <string name="lastName">enter last name</string>
+    <string name="id">enter ID</string>
+    <string name="phone">enter  phone number</string>
+    <string name="creditCard">enter credit card number</string>
+    <string name="email">enter email address</string>
+    <string name="id_must">id must contain max 9 digits</string>
+    <string name="what_to">what do you wand to do?</string>
+    <string name="list">LIST</string>
+
+
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+
+
+    <string name="action_1">Terms Of Service</string>
+    <string name="action_2">Settings2</string>
+    <string name="action_3">Settings3</string>
+    <string name="action_4">Settings4</string>
+    <string name="action_5">Settings5</string>
+
+
+    <string name="hello_world">Hello world!</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>Home</item>
+        <item>Find People</item>
+        <item>Photos</item>
+        <item>Communities</item>
+        <item>Pages</item>
+        <item>What\'s Hot</item>
+    </string-array>
+
+
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+
+
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_people</item>
+        <item>@drawable/ic_photos</item>
+        <item>@drawable/ic_communities</item>
+        <item>@drawable/ic_pages</item>
+        <item>@drawable/ic_whats_hot</item>
+    </array>
+
+    <string name="set1">contact us</string>
+    <string name="set2">order</string>
+    <string name="set3">available car</string>
+    <string name="set4">close order</string>
+    <string name="set5">sigh out</string>
+    <string name="title_activity_navigation">renteal car</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="email_de">chaimtovim26@gmail.com</string>
+    <string name="phone_de">0504141426</string>
+    <string name="addrsss_de">"         "<a href="https://www.google.co.il/maps/place/%D7%91%D7%99%D7%AA+%D7%94%D7%93%D7%A4%D7%95%D7%A1,+%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D%E2%80%AD/@31.7861321,35.1883939,17z/data=!3m1!4b1!4m5!3m4!1s0x1502d64c9251dfab:0xda7f5045ecb230c8!8m2!3d31.7861276!4d35.1862052?hl=iw&amp;authuser=0">beit hadfus 9 jerusalem</a></string>
+    <string name="web_de">"         "<a href="https://rent.eldan.co.il/he">our web page</a></string>
+    <string name="goomap">"    "<a href="https://www.google.co.il/maps/">link to map</a></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="the_branchNum">branch num: </string>
+
+    <string name="addOrder">an order add to your own, enjoy!!!</string>
+    <string name="the_address">branch address: </string>
+    <string name="parkingggg">num parkung space: </string>
+    <string name="linkkk">how can i come to the branch? : </string>
+    <string name="tak"></string>
+    <string name="choose"> choose car to close her order</string>
+    <string name="update">update the kilometraz</string>
+    <string name="close">close</string>
+    <string name="errorKilo">your update kilometraz is mistake!</string>
+    <string name="order_close">your order is closed</string>
+    <string name="selectBranch">if you want to return the car to different branch, select one!</string>
+
+    <string name="Car">Car</string>
+    <string name="carNumber">car number</string>
+    <string name="branch_num_of_parking">branch num of parking</string>
+    <string name="kilometers">kilometers</string>
+
+    <string name="Branch">Branch: </string>
+    <string name="branch_num">branch num</string>
+    <string name="address">address</string>
+    <string name="parkingSpacesNum"> parking spaces num</string>
+
+
+    <string name="Model">Model</string>
+    <string name="code">code</string>
+    <string name="company_name">company name</string>
+    <string name="name">name</string>
+    <string name="engine_capacity">engine capacity</string>
+    <string name="seating_place">seating place</string>
+    <string name="production_year">production year</string>
+
+
+    <string name="forPayment">for payment</string>
+    <string name="thePrice">Total cost:  </string>
+    <string name="call_cre">call to credit card company</string>
+
+
+    <string name="all">  Good and safe trip</string>
+
+    <string name="client_succ">client successfully added!
+                                the user name is your email,
+                                the password is your id</string>
+
+    <string name="mufraz">Overuse:   </string>
+
+    <string name="priceday">price per day:  </string>
+    <string name="numDays">number days: </string>
+
+
+    <string name="takanon">
+        <b>Rates</b>
+
+        Rates are quoted in US$  and includes 200km per day or
+        3500 km(per month and insurance coverage CDW PAI TP (
+        see insurances except of A group which includes 100 km per day.
+
+    day rental is 24 hours. Each extra hours will  be charged 20% of the daily rate
+
+    Rates may be changed at any time without prior notice ,unless  reservation is confirmed.
+
+    Rates in US$ are for exempted of VAT and available for
+
+    tourists only) foreign citizens with B2 B3 or B4 valid visa )
+
+    Rates in NIS already include VAT for Israeli citizens
+
+    All Suncars vehicles are non-smokers and no-pets allowed, sorry..
+
+    RENTER DETAILS AND USE OF THE CAR
+    The renter will be 24-75 years old, will show to Suncar a valid driving license with at least 2 years driving experience and a valid international credit card for guarantee. The renter will not cross the Israeli border with the vehicle.
+
+    The renter will not give the car or the car keys to any third party besides registered driver(s) on the contract.</string>
+
+    <string name="thebestcar">The most booked car</string>
+    <string name="Choose_a_date_to_return">Choose a date to return</string>
+    <string name="datainn">the date is incorrect</string>
+    <string name="errorday">your date is incorrect, please enter anther date</string>>
+</resources>
+

@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">rental car</string>
+    <string name="log_in">Log in</string>
+    <string name="user_name">  enter a user name</string>
+    <string name="paassword">  enter a password</string>
+    <string name="paassword_again">  enter your password again</string>
+    <string name="sumbit">enter</string>
+    <string name="forgot_paswword">forgot your password?</string>
+    <string name="create_a_user"><u>create a user</u></string>
+    <string name="account"> Do not have an account?</string>
+    <string name="system_managment">System managment</string>
+    <string name="car_list">cars</string>
+    <string name="model_list">models</string>
+    <string name="branch_list">branches</string>
+    <string name="users_add">add new user</string>
+    <string name="car_add">add new car</string>
+    <string name="model_add">add new model</string>
+    <string name="branch_add">add new branch</string>
+    <string name="users_list">users</string>
+    <string name="deatailes">Enter your details</string>
+    <string name="deatailes1">Enter car details</string>
+    <string name="deatailes2">Enter branch details</string>
+    <string name="branchAddress">Enter branch address</string>
+    <string name="parkingBrunch">Enter parking Spaces Number</string>
+    <string name="carNumD">Enter car number with 7/8 digits</string>
+    <string name="modelNameD">Enter cars model name</string>
+    <string name="kiloD">Enter kilometers of driving</string>
+    <string name="BranchPark">Enter num of branch the car parking in</string>
+    <string name="ans">Enter your answer</string>
+    <string name="add">add  </string>
+    <string name="title_spiner">choose your Identification Questions: </string>
+    <string name="the_user_name_or_password_are_incorrect">the user name or password are incorrect</string>
+    <string name="the_user_name_is_incorrect">the user name is incorrect</string>
+    <string name="Oopss_did_not_enter_the_username">Oopss, did not enter the username</string>
+    <string name="Oopss_the_user_name_is_incorrect">Oopss, the user name is incorrect</string>
+    <string name="Identification....">Identification....</string>
+    <string name="your_favorite_food">your favorite food</string>
+    <string name="your_mothers_mother">your mothers mother</string>
+    <string name="cencel">cencel</string>
+    <string name="OK">OK</string>
+    <string name="your_password">your password: </string>
+    <string name="your_ask_is_incorrect">your ask is incorrect</string>
+    <string name="choose_your_Identification_Questions_">choose your Identification Questions: </string>
+    <string name="the_return_password_not_match...">the return password not match...</string>
+    <string name="user_name_already_exist">user name already exist</string>
+    <string name="Pay_attention">Pay attention</string>
+    <string name="Password_must_contain">Password must contain:
+                                           between 6-8 characters
+                                           and at least one capital
+                                           letter and one small letter</string>
+    <string name="Password_must_least_one_capital_letter">Password must  least one capital letter</string>
+    <string name="Password_must_least_one_small_letter">Password must  least one small letter</string>
+    <string name="Password_must_contain_between">Password must contain between 6-8 characters</string>
+    <string name="the_return_password_is_incorrect">the return password is incorrect</string>
+    <string name="welcome">welcome</string>
+    <string name="user_successfully_added">user successfully added</string>
+    <string name="car_successfully_added">car successfully added
+                                             what do you want to do now?</string>
+    <string name="branch_successfully_added">branch successfully added
+                                             what do you want to do now?</string>
+    <string name="add_more">add more</string>
+    <string name="home">home</string>
+    <string name="model_successfully_added">model successfully added
+                                            what do you want to do now?</string>
+    <string name="client_successfully_added">client successfully added
+                                             what do you want to do now?</string>
+    <string name="add_op">add op</string>
+    <string name="list_op">list op</string>
+    <string name="car_num_must">car num must be 7 or 8 digits</string>
+    <string name="kilo">incorrect kilometers</string>
+    <string name="inputIn">the inputs are incorrect</string>
+    <string name="car_exis">the car already exist</string>
+    <string name="branch_exis">the branch already exist</string>
+    <string name="client_exis">the client already exist</string>
+    <string name="model_exis">the model already exist</string>
+    <string name="deatails3">enter model details</string>
+    <string name="deatails4">enter client details</string>
+    <string name="codeModel">enter model code</string>
+    <string name="companyModel">enter company name</string>
+    <string name="modelName">enter model name</string>
+    <string name="engineCapacity">enter engine capacity</string>
+    <string name="seatingPlace">enter seating place</string>
+    <string name="productionYear">enter production year</string>
+    <string name="firstName">enter first name</string>
+    <string name="lastName">enter last name</string>
+    <string name="id">enter ID</string>
+    <string name="phone">enter  phone number</string>
+    <string name="creditCard">enter credit card number</string>
+    <string name="email">enter email address</string>
+    <string name="id_must">id must contain max 9 digits</string>
+    <string name="what_to">what do you wand to do?</string>
+    <string name="list">LIST</string>
+
+
+    <string name="Car">Car</string>
+    <string name="carNumber">car number</string>
+    <string name="branch_num_of_parking">branch num of parking</string>
+    <string name="kilometers">kilometers</string>
+
+    <string name="Branch">Branch: </string>
+    <string name="branch_num">branch num</string>
+    <string name="address">address</string>
+    <string name="parkingSpacesNum"> parking spaces num</string>
+
+
+    <string name="Model">Model</string>
+    <string name="code">code</string>
+    <string name="company_name">company name</string>
+    <string name="name">name</string>
+    <string name="engine_capacity">engine capacity</string>
+    <string name="seating_place">seating place</string>
+    <string name="production_year">production year</string>
+
+    <string name="price">enter the price</string>
+</resources>

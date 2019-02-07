@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.this_user.ourproject5778_4711_9075">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_loggo"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".controller.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".controller.ManagmentActivity" />
+        <activity android:name=".controller.CreateUserActivity" />
+        <activity android:name=".controller.ListActivity" />
+        <activity android:name=".controller.CarListActivity" />
+        <activity android:name=".controller.BrunchListActivity" />
+        <activity android:name=".controller.ClientListActivity" />
+        <activity android:name=".controller.ModelListActivity" />
+        <activity android:name=".controller.AddCarActivity" />
+        <activity android:name=".controller.AddModelActivity" />
+        <activity android:name=".controller.AddBranchActivity" />
+        <activity android:name=".controller.AddClientActivity"></activity>
+    </application>
+
+</manifest>

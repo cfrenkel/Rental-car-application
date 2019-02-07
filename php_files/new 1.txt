@@ -1,0 +1,6 @@
+$carNum = $_REQUEST["carNumber"];
+      	$moedlName = $_REQUEST["model"];
+		$kilo = $_REQUEST["kilometers"];
+		$branchNum = $_REQUEST["branchNumOfParking"];
+		$sql = "INSERT INTO `Car`( `carNumber`, `model`, `kilometers`, `branchNumOfParking`) 
+		VALUES ('$carNum', '$moedlName', '$kilo', '$branchNum')"; 

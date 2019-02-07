@@ -1,0 +1,16 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.this_user.ourproject5778_9075_4711_02.controller.fragments.TermFragment">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textSize="28dp"
+        android:alpha="0.999"
+        android:background="@drawable/takanon"
+        android:textColor="@color/list_background"
+        android:text="@string/takanon" />
+
+</ScrollView>

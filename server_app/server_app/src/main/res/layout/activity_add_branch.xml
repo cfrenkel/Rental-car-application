@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_add_branch"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.this_user.ourproject5778_4711_9075.controller.AddBranchActivity">
+
+    <Button
+        android:text="@string/add"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/parkingBrunch"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="30dp"
+        android:background="#2ea2e1"
+        android:drawableLeft="@drawable/ic_action_name"
+        android:id="@+id/bracnAddButton" />
+
+    <TextView
+        android:text="@string/deatailes2"
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:textSize="24dp"
+
+        android:id="@+id/textViewDe"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="14dp" />
+
+    <EditText
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:hint="@string/branchAddress"
+        android:ems="10"
+        android:id="@+id/addressBranch"
+        android:layout_below="@+id/textViewDe"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:hint="@string/parkingBrunch"
+        android:ems="10"
+        android:layout_marginTop="20dp"
+        android:id="@+id/parkingBrunch"
+        android:layout_below="@+id/addressBranch"
+        android:layout_alignParentStart="true" />
+</RelativeLayout>

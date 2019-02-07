@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">השכרת רכב 02</string>
+    <string name="messSer">נסגרה הזמנה ב10 שניות האחרונות</string>
+    <string name="log_in">התחבר</string>
+    <string name="user_name">  הכנס שם משתמש</string>
+    <string name="paassword">  הכנס סיסמה</string>
+    <string name="paassword_again">  הכנס את הסיסמה שוב</string>
+    <string name="sumbit">כנס</string>
+    <string name="forgot_paswword">שכחתי סיסמה</string>
+    <string name="create_a_user"><u>צור חשבון</u></string>
+    <string name="account"> אין לך חשבון?</string>
+    <string name="system_managment">ניהול מערכת</string>
+    <string name="car_list">רכבים</string>
+    <string name="model_list">מודלים</string>
+    <string name="branch_list">סניפים</string>
+    <string name="users_add">הוסף לקוח חדש</string>
+    <string name="car_add">הוסף רכב חדש</string>
+    <string name="model_add">הוסף מודל חדש</string>
+    <string name="branch_add">הוסף סניף חדש</string>
+    <string name="users_list">לקוחות</string>
+    <string name="deatailes">הכנס את הפרטים שלך</string>
+    <string name="deatailes1">הכנס פרטי רכב</string>
+    <string name="deatailes2">הכנס פרטי סניף</string>
+    <string name="branchAddress">הכנס כתובת הסניף</string>
+    <string name="parkingBrunch">הכנס מספר מקומות חנייה</string>
+    <string name="carNumD">הכנס מספר רכב בין 7-8 ספרות</string>
+    <string name="modelNameD">הכנס שם המודל</string>
+    <string name="kiloD">הכנס קילומטראז</string>
+    <string name="BranchPark">הכנס שם הסניף שבו המכונית חונה</string>
+    <string name="ans">הכנס תשובתך</string>
+    <string name="add">הוסף  </string>
+    <string name="title_spiner">בחר שאלה מזהה: </string>
+    <string name="the_user_name_or_password_are_incorrect">שם משתמש ו/או סיסמה שגויים</string>
+    <string name="the_user_name_is_incorrect">שם משתמש שגוי</string>
+    <string name="Oopss_did_not_enter_the_username">אופס, לא הוכנס שם משתמש</string>
+    <string name="Oopss_the_user_name_is_incorrect"> אופס, שם משתמש שגוי </string>
+    <string name="Identification....">מזהה....</string>
+    <string name="your_favorite_food">המאכל האהוב עליך</string>
+    <string name="your_mothers_mother">סבתך מצד אמך</string>
+    <string name="cencel">ביטול</string>
+    <string name="OK">או קיי</string>
+    <string name="your_password">סיסמתך: </string>
+    <string name="your_ask_is_incorrect">תשובתך שגויה</string>
+    <string name="choose_your_Identification_Questions_">בחר שאלה מזהה: </string>
+    <string name="the_return_password_not_match...">הסיסמא החוזרת לא תואמת</string>
+    <string name="user_name_already_exist">שם משתמש קיים במערכת</string>
+    <string name="Pay_attention">שים לב</string>
+    <string name="Password_must_contain">הסיסמה חייבת להכיל:
+        בין 6-8 תווים (אותיות אנגליות בלבד!)
+                                           אות גדולה אחת לפחות
+ואות אחת קטנה                                                </string>
+    <string name="Password_must_least_one_capital_letter">הסיסמה חייבת להכיל לפחות אות גדולה אחת</string>
+    <string name="Password_must_least_one_small_letter">הסיסמה חייבת להכיל לפחות אות קטנה אחת</string>
+    <string name="Password_must_contain_between">סיסמה חייבת להכיל בין6-8 תווים</string>
+    <string name="the_return_password_is_incorrect">סיסמה חוזרת שגויה</string>
+    <string name="welcome">ברוך הבא</string>
+    <string name="user_successfully_added">המשתמש נוסף בהצלחה</string>
+    <string name="car_successfully_added">הרכב נוסף בהצלחה
+מה תרצה לעשות כעת?                                       </string>
+    <string name="branch_successfully_added">הסניף נוסף בהצלחה
+ מה תרצה לעשות כעת?                                            </string>
+    <string name="add_more">הוסך עוד</string>
+    <string name="home">בית</string>
+    <string name="model_successfully_added">המודל נוסף בהצלחה
+ מה תרצה לעשות כעת?                                           </string>
+    <string name="client_successfully_added">הלקוח נוסף בהצלחה
+ מה תרצה לעשות כעת?                                            </string>
+    <string name="add_op">אופציית הוספה</string>
+    <string name="list_op">רשימת אופציות</string>
+    <string name="car_num_must">מספר רכב מכיל בין 7-8 ספרות</string>
+    <string name="kilo">קילומטראז שגוי</string>
+    <string name="inputIn">קלט שגוי</string>
+    <string name="car_exis">רכב קיים במערכת</string>
+    <string name="branch_exis">סניף קיים במערכת</string>
+    <string name="client_exis">הלקוח קיים במערכת</string>
+    <string name="model_exis">המודל קיים במערכת</string>
+    <string name="deatails3">הכנס פרטי מודל</string>
+    <string name="deatails4">הכנס פרטי לקוח  </string>
+    <string name="codeModel">הכנס קוד מודל</string>
+    <string name="companyModel">הכנס שם החברה</string>
+    <string name="modelName">הכנס שם מודל</string>
+    <string name="engineCapacity">enter engine capacity</string>
+    <string name="seatingPlace">הכנס מקומות ישיבה</string>
+    <string name="productionYear">הכנס שנת ייצור</string>
+    <string name="firstName">הכנס שם פרטי</string>
+    <string name="lastName">הכנס שם משפחה</string>
+    <string name="id">הכנס מספר זהות</string>
+    <string name="phone">הכנס מספר פלפון</string>
+    <string name="creditCard">הכנס מספר אשראי</string>
+    <string name="email">הכנס כתובת דואר אלקטרוני</string>
+    <string name="id_must">תעודת זהות חייבת להכיל 9 ספרות</string>
+    <string name="what_to">מה אתה רוצה לעשות?</string>
+    <string name="list">רשימה</string>
+
+
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+
+
+    <string name="action_1">תקנון</string>
+    <string name="action_2">Settings2</string>
+    <string name="action_3">Settings3</string>
+    <string name="action_4">Settings4</string>
+    <string name="action_5">Settings5</string>
+
+
+    <string name="hello_world">Hello world!</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>Home</item>
+        <item>Find People</item>
+        <item>Photos</item>
+        <item>Communities</item>
+        <item>Pages</item>
+        <item>What\'s Hot</item>
+    </string-array>
+
+
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+
+
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_people</item>
+        <item>@drawable/ic_photos</item>
+        <item>@drawable/ic_communities</item>
+        <item>@drawable/ic_pages</item>
+        <item>@drawable/ic_whats_hot</item>
+    </array>
+
+    <string name="set1">צור קשר</string>
+    <string name="set2">הזמן</string>
+    <string name="set3">מכוניות פנוית</string>
+    <string name="set4">סגירת הזמנה</string>
+    <string name="set5">התנתק</string>
+    <string name="title_activity_navigation">השכרת רכבים-תפריט</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="email_de">chaimtovim26@gmail.com</string>
+    <string name="phone_de">0504141426</string>
+    <string name="addrsss_de">"         "<a href="https://www.google.co.il/maps/place/%D7%91%D7%99%D7%AA+%D7%94%D7%93%D7%A4%D7%95%D7%A1,+%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D%E2%80%AD/@31.7861321,35.1883939,17z/data=!3m1!4b1!4m5!3m4!1s0x1502d64c9251dfab:0xda7f5045ecb230c8!8m2!3d31.7861276!4d35.1862052?hl=iw&amp;authuser=0">beit hadfus 9 jerusalem</a></string>
+    <string name="web_de">"         "<a href="https://rent.eldan.co.il/he">האתר שלנו</a></string>
+    <string name="goomap">"    "<a href="https://www.google.co.il/maps/">איך מגיעים?</a></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="the_branchNum">מספר סניף: </string>
+
+    <string name="addOrder">ההזמנה נוספה בהצלחה, בהנאה!!!</string>
+    <string name="the_address">כתובת הסניף: </string>
+    <string name="parkingggg">מספר מקומות חנייה: </string>
+    <string name="linkkk">איך אני יכול להגיע לסניף? : </string>
+    <string name="tak"></string>
+    <string name="choose"> בחר רכב לסגירת הזמנה</string>
+    <string name="update"> עדכן קילומטראז </string>
+    <string name="close">סגור</string>
+    <string name="errorKilo">הקילומטראז שהוכנס שגוי!</string>
+    <string name="order_close">ההזמנה נסגרה</string>
+    <string name="selectBranch"> אם אתה רוצה להחזיר את הרכב לסניף אחר, בחר סניף!</string>
+
+
+    <string name="Car">רכב</string>
+    <string name="carNumber">מספר רכב:</string>
+    <string name="branch_num_of_parking">מספר סניף - חנייה:</string>
+    <string name="kilometers">קילומטראז:</string>
+
+    <string name="Branch">סניף: </string>
+    <string name="branch_num">מספר סניף:</string>
+    <string name="address">כתובת:</string>
+    <string name="parkingSpacesNum"> מספר מקומות חניה:</string>
+
+
+    <string name="Model">מודל</string>
+    <string name="code">קוד:</string>
+    <string name="company_name">שם החברה:</string>
+    <string name="name">שם המודל:</string>
+    <string name="engine_capacity">קיבולת המנוע:</string>
+    <string name="seating_place"> מספר מקומות ישיבה:</string>
+    <string name="production_year">שנת יצור:</string>
+
+    <string name="forPayment">לתשלום</string>
+    <string name="thePrice">סך הכל לתשלום</string>
+    <string name="call_cre">מתקשר לחברת האשראי...</string>
+
+    <string name="all">  נסיעה טובה ובטוחה</string>
+
+        <string name="client_succ">הלקוח נוסף בהצלחה
+                 שם משתמש: דואל
+ סיסמא : תז                                             </string>
+
+    <string name="mufraz">שימוש יתר</string>
+
+
+    <string name="priceday">מחיר ליום: </string>
+    <string name="numDays">מספר הימים: </string>
+     <string name="takanon">
+                     <b>תקנון ותנאי ההשכרה</b>
+יום השכרה הנו 24 שעות.
+         כל שעה איחור תחויב 20% מהמחיר היומי.
+         המחירים הנם בש"ח כוללים מע"מ וכיסוי ביטוחי,
+            200 ק"מ ליום או 2000 ק"מ לחודש.
+         (למעט רכב מקבוצה A הכולל 100 ק"מ ליום).
+         כל רכבי סאן-קאר הינם רכבים ללא עישון
+         ואסורה כניסת בעלי חיים לרכבים.
+
+        <b>פרטי השוכר והשימוש ברכב</b>
+
+   השוכר יציג תעודה מזהה וכרטיס אשראי על שמו ,
+         עם מסגרת אשראי מספקת לעסקה.
+         הנהג(ים) בגיל 24-75 יציג(ו)
+         לחברה רשיון נהיגה בתוקף מעל שנתיים ותק.
+         השוכר לא יצא עם הרכב מחוץ לגבולות מדינת ישראל
+         לרבות הרשות הפלשתינית.
+                 השוכר לא ימסור את מפתחות הרכב לצד שלישי
+         למעט נהג מאושר ורשום בחוזה ההשכרה,
+וידאג לנעול את הרכב ולשמור על המפתחות.</string>
+
+
+    <string name="thebestcar">המכונית המוזמנת ביותר</string>
+     <string name="Choose_a_date_to_return">בחר תאריך להחזרה</string>
+    <string name="datainn">תאריך שגוי</string>
+
+
+    <string name="errorday">התאריך שגוי! בחר תאריך אחר</string>>
+</resources>

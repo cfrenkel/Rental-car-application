@@ -1,0 +1,33 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".controller.fragments.order.BranchListFragment">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        <SearchView
+            android:id="@+id/search_view"
+            android:layout_width="350dp"
+            android:layout_height="58dp"
+            android:background="@drawable/search_view_border"
+            android:iconifiedByDefault="false"
+            android:padding="2dp"
+            android:queryHint="Search...."
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true" />
+
+        <ListView
+            android:layout_width="350dp"
+            android:layout_height="300dp"
+            android:id="@+id/listviewb"
+            android:layout_below="@+id/search_view"
+            android:layout_alignStart="@+id/search_view"></ListView>
+
+
+    </RelativeLayout>
+
+</FrameLayout>

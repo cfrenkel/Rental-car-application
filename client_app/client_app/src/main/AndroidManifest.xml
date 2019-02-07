@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.this_user.ourproject5778_9075_4711_02">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_logo_car2"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".controller.activities.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <service
+            android:name=".service.MyIntentService"
+            android:exported="false" />
+
+        <receiver
+            android:name=".service.MyReceiver"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="closedOrder" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.TIME_TICK" />
+            </intent-filter>
+        </receiver>
+
+        <activity android:name=".controller.activities.AddClient" />
+        <activity
+            android:name=".controller.activities.NavigationActivity"
+            android:label="@string/title_activity_navigation"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".controller.activities.OpenViewActivity" />
+        <activity android:name=".controller.activities.VideoActivity"></activity>
+    </application>
+
+</manifest>
