@@ -1,26 +1,28 @@
 
-## Rental car application
+# Rental car application
 
 management rental car, client and server application.
 	
-# server application:
+## server application:
 * store cars, branch and users data.
 * management their user rental, user payment and the cars.
 			
-# client application:
+## client application:
 * login to the company
 * search branch in the nearest location
 * payment when finish ti use.
 		
-## server app - screen shot
+# screen shot
 
+	## server app - 
+	
 	![sign in](screenshot/loginscreen_server.png)
 	![log in](screenshot/flow_s_2.png)
 	![management 1](screenshot/managescreen_server.png)
 	![management 2](screenshot/flow_s_1.png)
 	![forget password](screenshot/flow_s_3.png)
 	
-## client app - screen shot
+	## client app
 
 	![sign in](screenshot/flow_c_1.png)
 	![log in](screenshot/flow_c_2.png)
