@@ -13,17 +13,11 @@ management rental car, client and server application.
 * payment when finish ti use.
 		
 # screen shot
-
-	 
-	
 	![sign in](screenshot/loginscreen_server.png)
 	![log in](screenshot/flow_s_2.png)
 	![management 1](screenshot/managescreen_server.png)
 	![management 2](screenshot/flow_s_1.png)
 	![forget password](screenshot/flow_s_3.png)
-	
-	
-
 	![sign in](screenshot/flow_c_1.png)
 	![log in](screenshot/flow_c_2.png)
 	![our video](screenshot/flow_c_3.png)
