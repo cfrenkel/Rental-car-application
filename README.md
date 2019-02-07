@@ -14,7 +14,7 @@ management rental car, client and server application.
 		
 # screen shot
 
-	## server app - 
+	 
 	
 	![sign in](screenshot/loginscreen_server.png)
 	![log in](screenshot/flow_s_2.png)
@@ -22,7 +22,7 @@ management rental car, client and server application.
 	![management 2](screenshot/flow_s_1.png)
 	![forget password](screenshot/flow_s_3.png)
 	
-	## client app
+	
 
 	![sign in](screenshot/flow_c_1.png)
 	![log in](screenshot/flow_c_2.png)
