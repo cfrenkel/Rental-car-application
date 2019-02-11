@@ -13,18 +13,23 @@ management rental car, client and server application.
 * payment when finish ti use.
 		
 ## ScreenShots
-![sign in](screenshot/loginscreen_server.png "sign in")
-![log in](screenshot/flow_s_2.png "log in")
-![management 1](screenshot/managescreen_server.png "management 1")
-![management 2](screenshot/flow_s_1.png "management 2")
-![forget password](screenshot/flow_s_3.png "forget password")
-![sign in](screenshot/flow_c_1.png "sign in")
-![log in](screenshot/flow_c_2.png "log in")
-![our video](screenshot/flow_c_3.png "our video")
+###server app
+![sign%20in](screenshot/loginscreen_server.png "sign in")
+
+![log%20in](screenshot/flow_s_2.png "log in")
+
+![management%201](screenshot/managescreen_server.png "management 1")
+
+![management%202](screenshot/flow_s_1.png "management 2")
+
+###client app
+![log%20in](screenshot/flow_c_2.png "log in")
+
+![our%20video](screenshot/flow_c_3.png "our video")
+
 ![menu](screenshot/flow_c_4.png "menu")
-![search for branch](screenshot/flow_c_7.png "search for branch")
-![results](screenshot/flow_c_8.png "results")
-![contact details](screenshot/flow_c_5.png "contact details")
+
+![search%20for%20branch](screenshot/flow_c_7.png "search for branch")
 
 
 
