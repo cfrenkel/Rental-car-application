@@ -1,7 +1,7 @@
 
 # Rental car application
 
-management rental car, client and server application.
+client and server application of management rental car.
 	
 ## server application:
 * store cars, branch and users data.
@@ -10,7 +10,7 @@ management rental car, client and server application.
 ## client application:
 * login to the company
 * search branch in the nearest location
-* payment when finish ti use.
+* payment when finish to use.
 		
 ## ScreenShots
 
