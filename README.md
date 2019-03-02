@@ -20,8 +20,6 @@ client and server application of management rental car.
 
 ![management%201](screenshot/managescreen_server.png "management 1")
 
-![management%202](screenshot/flow_s_1.png "management 2")
-
 ![log%20in](screenshot/flow_c_2.png "log in")
 
 ![our%20video](screenshot/flow_c_3.png "our video")
